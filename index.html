@@ -688,18 +688,27 @@
               For example, Formspree, Mailchimp, ConvertKit, etc.
               Until then, the demo below simply shows a success message.
             -->
-            <form class="signup-form" <form action="https://ifs-jobs.us13.list-manage.com/subscribe/post?u=ab912d3428af9331b4382efe9&amp;id=d222753aef&amp;f_id=008101e9f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" id="signupForm">
-              <label for="email" class="sr-only">Email address</label>
-              <input
-                id="email"
-                name="email"
-                type="email"
-                placeholder="Your email address"
-                autocomplete="email"
-                required
-              />
-              <button class="button" type="submit">Join the Club</button>
-            </form>
+            <form
+  class="signup-form"
+  action="https://ifs-jobs.us13.list-manage.com/subscribe/post?u=ab912d3428af9331b4382efe9&amp;id=d222753aef&amp;f_id=008101e9f0"
+  method="post"
+  target="_blank"
+>
+  <label for="email" class="sr-only">Email address</label>
+
+  <input
+    id="email"
+    name="EMAIL"
+    type="email"
+    placeholder="Your email address"
+    autocomplete="email"
+    required
+  />
+
+  <button class="button" type="submit">
+    Join the Club
+  </button>
+</form>
 
             <div class="success-message" id="successMessage">
               You're on the list. Welcome to mushroom country. 🍄
@@ -759,22 +768,7 @@
   </footer>
 
   <script>
-    // Demo signup behavior.
-    // Replace this with your email provider endpoint when you're ready.
-    document.getElementById("signupForm").addEventListener("submit", function(event) {
-      event.preventDefault();
 
-      const email = document.getElementById("email");
-      const success = document.getElementById("successMessage");
-
-      if (!email.checkValidity()) {
-        email.reportValidity();
-        return;
-      }
-
-      success.style.display = "block";
-      email.value = "";
-    });
 
     document.getElementById("year").textContent = new Date().getFullYear();
   </script>
