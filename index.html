@@ -682,26 +682,61 @@
             </p>
 
             <!--
-              FORM SETUP:
-              Replace the action URL with your email provider's form endpoint.
-              For example, Formspree, Mailchimp, ConvertKit, etc.
-              Until then, the demo below simply shows a success message.
+              MAILCHIMP SIGNUP
+              This is Mailchimp's normal POST endpoint and field names.
+              The form targets an invisible iframe, so the visitor stays on
+              PennMushrooms.com instead of being redirected to Mailchimp.
             -->
-            <form class="signup-form" id="signupForm">
-              <label for="email" class="sr-only">Email address</label>
+            <iframe
+              name="mailchimp-frame"
+              id="mailchimp-frame"
+              title="Mailchimp subscription response"
+              aria-hidden="true"
+              style="position:absolute;width:1px;height:1px;border:0;opacity:0;pointer-events:none;left:-9999px;">
+            </iframe>
+
+            <form
+              class="signup-form"
+              action="https://ifs-jobs.us13.list-manage.com/subscribe/post?u=ab912d3428af9331b4382efe9&amp;id=d222753aef&amp;f_id=008101e9f0"
+              method="post"
+              id="signupForm"
+              name="mc-embedded-subscribe-form"
+              target="mailchimp-frame">
+
+              <label for="mce-EMAIL" class="sr-only">Email address</label>
               <input
-                id="email"
-                name="email"
                 type="email"
+                name="EMAIL"
+                id="mce-EMAIL"
                 placeholder="Your email address"
                 autocomplete="email"
                 required
               />
-              <button class="button" type="submit">Join the Club</button>
+
+              <!-- Mailchimp anti-bot honeypot -->
+              <div aria-hidden="true" style="position:absolute;left:-5000px;">
+                <input
+                  type="text"
+                  name="b_ab912d3428af9331b4382efe9_d222753aef"
+                  tabindex="-1"
+                  value="">
+              </div>
+
+              <button
+                class="button"
+                type="submit"
+                name="subscribe"
+                id="mc-embedded-subscribe">
+                Join the Club
+              </button>
             </form>
 
-            <div class="success-message" id="successMessage">
+            <div class="success-message" id="successMessage" role="status" aria-live="polite">
               You're on the list. Welcome to mushroom country. 🍄
+              <br>
+              <span style="font-weight:400;font-size:13px;">
+                If Mailchimp asks you to confirm your email, please check your inbox.
+              </span>
             </div>
 
             <div class="form-note">
@@ -758,24 +793,37 @@
   </footer>
 
   <script>
-    // Demo signup behavior.
-    // Replace this with your email provider endpoint when you're ready.
-    document.getElementById("signupForm").addEventListener("submit", function(event) {
-      event.preventDefault();
-
-      const email = document.getElementById("email");
+    (function () {
+      const form = document.getElementById("signupForm");
+      const email = document.getElementById("mce-EMAIL");
+      const button = document.getElementById("mc-embedded-subscribe");
       const success = document.getElementById("successMessage");
 
-      if (!email.checkValidity()) {
-        email.reportValidity();
-        return;
-      }
+      form.addEventListener("submit", function (event) {
+        // Do NOT preventDefault(): Mailchimp needs the normal POST request.
+        // The target is the invisible iframe, so the current page remains open.
+        if (!email.value || !email.checkValidity()) {
+          event.preventDefault();
+          email.reportValidity();
+          return;
+        }
 
-      success.style.display = "block";
-      email.value = "";
-    });
+        button.disabled = true;
+        button.textContent = "Joining…";
 
-    document.getElementById("year").textContent = new Date().getFullYear();
+        // Mailchimp's response is cross-origin, so this page cannot inspect it.
+        // The POST has been sent to Mailchimp; show the local confirmation after
+        // a short delay while allowing Mailchimp time to process the request.
+        window.setTimeout(function () {
+          success.style.display = "block";
+          email.value = "";
+          button.disabled = false;
+          button.textContent = "Join the Club";
+        }, 1800);
+      });
+
+      document.getElementById("year").textContent = new Date().getFullYear();
+    })();
   </script>
 
   <style>
