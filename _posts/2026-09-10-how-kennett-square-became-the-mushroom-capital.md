@@ -8,6 +8,8 @@ tags:
   - kennett-square
   - farms
 ---
+![](https://wheninyourstate.com/wp-content/uploads/2025/11/1220Swayne20Mushroom20Industry20Pioneer20Kennett20Square-768x400.jpg "Wikimedia Commons")
+
 If you drive around southern Chester County, Pennsylvania, you start noticing something.
 
 Mushroom farms are everywhere.
