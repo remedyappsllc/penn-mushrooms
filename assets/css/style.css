@@ -108,7 +108,7 @@
 
     .hero {
       position: relative;
-      min-height: 720px;
+      min-height: 560px;
       display: flex;
       align-items: center;
       overflow: hidden;
