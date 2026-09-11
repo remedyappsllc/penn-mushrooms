@@ -1,0 +1,29 @@
+title: Penn Mushrooms
+description: >-
+  Discover the farms, farmers, recipes and incredible mushrooms
+  grown in Pennsylvania's mushroom country.
+url: "https://pennmushrooms.com"
+baseurl: ""
+
+# GitHub Pages builds Jekyll sites automatically using these settings.
+markdown: kramdown
+kramdown:
+  input: GFM
+
+permalink: /blog/:year/:month/:day/:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+# Nothing here needs to be excluded from the build, but this is the
+# standard place to list files/folders Jekyll shouldn't try to process.
+exclude:
+  - README.md

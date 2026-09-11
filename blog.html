@@ -1,0 +1,28 @@
+---
+layout: default
+title: Blog
+description: "Farm stories, mushroom varieties, and recipes from Pennsylvania's mushroom country."
+---
+
+<section class="blog-header">
+  <div class="container">
+    <div class="section-label">Stories from mushroom country</div>
+    <h1>The Penn Mushrooms Blog</h1>
+    <p>
+      Farm profiles, mushroom varieties, recipes and the history behind
+      Pennsylvania's mushroom industry.
+    </p>
+  </div>
+</section>
+
+<section class="blog-list">
+  <div class="container">
+    {% for post in site.posts %}
+      <a class="post-preview" href="{{ post.url | relative_url }}">
+        <span class="post-date">{{ post.date | date: "%B %-d, %Y" }}</span>
+        <h2>{{ post.title }}</h2>
+        <p>{{ post.description }}</p>
+      </a>
+    {% endfor %}
+  </div>
+</section>
