@@ -1,4 +1,4 @@
-title: How Pennsylvania Became the Mushroom Capital of the World
+How Pennsylvania Became the Mushroom Capital of the World
 description: "It started with a florist, some wasted greenhouse space, and a very good idea. Here's how a small Chester County town ended up growing more mushrooms than anywhere else on Earth."
 tags: [history, kennett-square, farms]
 *It started with a florist, some unused space under greenhouse benches, and an idea that turned out to be pretty darn good.*
@@ -204,4 +204,5 @@ But here in Pennsylvania, they are.
 **Welcome to mushroom country.**
 
 We're going to spend some time finding out why.
+
 *Sources: Chester County Press, Out & About Magazine, Vista.Today/The Keystone, 92.5 XTU, Pennsylvania Independent.*
