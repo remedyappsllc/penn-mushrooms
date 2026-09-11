@@ -1,0 +1,24 @@
+backend:
+  name: github
+  repo: remedyappsllc/penn-mushrooms
+  branch: main
+
+# Where uploaded images get committed, and how the CMS should link to them.
+media_folder: "assets/images/uploads"
+public_folder: "/assets/images/uploads"
+
+site_url: https://pennmushrooms.com
+display_url: https://pennmushrooms.com
+
+collections:
+  - name: "posts"
+    label: "Blog Posts"
+    folder: "_posts"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "text", hint: "One or two sentences shown on the blog listing page." }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Tags", name: "tags", widget: "list", default: ["farms"] }
+      - { label: "Body", name: "body", widget: "markdown" }
