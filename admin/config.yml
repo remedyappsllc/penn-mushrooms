@@ -2,7 +2,7 @@ backend:
   name: github
   repo: remedyappsllc/penn-mushrooms
   branch: main
-
+  base_url: https://pennmushroom.netlify.app
 # Where uploaded images get committed, and how the CMS should link to them.
 media_folder: "assets/images/uploads"
 public_folder: "/assets/images/uploads"
