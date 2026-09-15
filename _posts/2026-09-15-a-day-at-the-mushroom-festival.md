@@ -10,9 +10,9 @@ date: 2026-09-15T10:08:00.000-04:00
 tags:
   - farms
 ---
-![](/assets/images/uploads/img_3792.jpeg)
+![](/assets/images/uploads/img_3792.jpeg "Famous Mushroom Costum")
 
-![](/assets/images/uploads/img_3792.jpeg)
+![This cheese was excellent and pairs nicely with a Barolo](/assets/images/uploads/img_3792.jpeg "Pine River's Italian Truffle Cheese")
 
 I headed down to Kennett Square to see what was happening, talk to some people, eat some mushrooms, and generally see if I could justify spending an entire day thinking about fungi.
 
