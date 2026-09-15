@@ -12,7 +12,7 @@ tags:
 ---
 ![](/assets/images/uploads/img_3792.jpeg "Famous Mushroom Costum")
 
-![This cheese was excellent and pairs nicely with a Barolo]( "Pine River's Italian Truffle Cheese")
+![This cheese was excellent and pairs nicely with a Barolo](/assets/images/uploads/dsc_0283.jpg "Pine River's Italian Truffle Cheese")
 
 I headed down to Kennett Square to see what was happening, talk to some people, eat some mushrooms, and generally see if I could justify spending an entire day thinking about fungi.
 
