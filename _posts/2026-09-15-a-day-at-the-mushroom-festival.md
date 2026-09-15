@@ -10,7 +10,9 @@ date: 2026-09-15T10:08:00.000-04:00
 tags:
   - farms
 ---
-![](/assets/images/uploads/dsc_0283.jpg)
+![](/assets/images/uploads/img_3792.jpeg)
+
+![](/assets/images/uploads/img_3792.jpeg)
 
 I headed down to Kennett Square to see what was happening, talk to some people, eat some mushrooms, and generally see if I could justify spending an entire day thinking about fungi.
 
