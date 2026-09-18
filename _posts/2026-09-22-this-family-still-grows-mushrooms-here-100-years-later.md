@@ -8,8 +8,6 @@ tags:
   - farms
   - kennett-square
 ---
-
-
 ![The Woodlands at Phillips Fam is a short distance from the boro of Kennett](/assets/images/uploads/img_3807.jpeg "The Front Driveway of The Woodlands at Phillips")
 
 ## Still in the Family, Four Generations Later
@@ -20,11 +18,19 @@ I talked to Linda.
 
 ## What Linda Told Me
 
-Linda told me that growing up in the Phillips family was certainly an adventure. Having the Phillips last name meant working in every part of the business - from production line to fulfillment. It was truly a family business. 
+Linda told me that growing up a Phillips was an adventure. The last name wasn't just something on the sign out front, it meant you worked. Production line, fulfillment, whatever needed doing that week. Not a family that owns a mushroom farm but a family that *is* one, in the sense that there was apparently no clean line between the two.
 
-The nature of their mushroom growing and production requires hand picking of mushrooms. No mechanized harvesting because it damages the next round of spored mushrooms. 
+One detail stopped me more than I expected: mushrooms, even now, even at the scale Phillips operates at, are picked by hand. Not because anyone's being sentimental about it, because a mechanical harvester would damage the next flush of mushrooms trying to grow in the same bed. You can't run a machine over something that's still, in a very real sense, about to happen again. So, it's still people, still hands, still someone walking a row and making a judgment call on every single mushroom. I hadn't thought about the fact that a food this common - the kind you buy without a second thought - is still, structurally, incapable of being automated in the way almost everything else in a grocery store is. 
 
-Also, that in the early days their family came from England and settled in Chester county. They found that the soil here had Loam that made it ideal for mushroom growing. 
+![](/assets/images/uploads/img_3804.jpeg)
+
+There’s still art in this – there’s history and tradition– this can’t be outsourced to AI. 
+
+And then there was the story about the loam, which I keep turning over.
+
+The family came from England, generations back, and settled in Chester County, and as Linda told it, part of why they stayed *here* —this particular stretch of Pennsylvania, and not somewhere else, came down to the soil. *Loam*. It's a word I knew existed before that conversation and had never once had a reason to use: a soil that's roughly balanced between sand, silt, and clay, holding enough moisture to be useful without turning to mud, loose enough to breathe. Farmers apparently talk about it the way sommeliers talk about terroir. It’s like it's not just dirt, but a kind of inheritance the land gives you if you're lucky enough to land on it.
+
+
 
 ## The Box That Changes Every Week
 
