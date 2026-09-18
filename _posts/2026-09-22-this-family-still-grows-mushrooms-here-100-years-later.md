@@ -42,7 +42,7 @@ Linda knew each mushroom in the box and how to prepare each variety for taste, t
 
 ## The Museum Part, Which I Did Not Expect
 
-Attached to the shop is a free exhibit on how mushrooms are actually grown — the substrate, the process, some genuinely strange facts I didn't know before walking in (growing a pound of mushrooms takes something like 1.8 gallons of water, versus over 1,600 gallons for a pound of beef, which is the kind of number that's stuck in my head since). It is, as far as I can tell, the only museum in the world dedicated entirely to mushrooms. I did not expect to spend as long in there as I did.
+Attached to the shop is a free exhibit on how mushrooms are actually grown, the substrate, the process, etc. It is, as far as I can tell, the only museum in the world dedicated entirely to mushrooms. I did not expect to spend as long in there as I did.
 
 If you're ever near Kennett Square, it's worth the stop on its own, whether or not you buy anything. Their full shop of fresh mushrooms, dried, gourmet products, even mushroom coffee is at [The Woodlands at Phillips](https://www.thewoodlandsatphillips.com/curbside-online-shopping).
 
