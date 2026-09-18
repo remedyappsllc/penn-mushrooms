@@ -42,7 +42,7 @@ Linda knew each mushroom in the box and how to prepare each variety for taste, t
 
 ## The Museum Part, Which I Did Not Expect
 
-Attached to the shop is a free exhibit on how mushrooms are actually grown, the substrate, the process, etc. It is, as far as I can tell, the only museum in the world dedicated entirely to mushrooms. I did not expect to spend as long in there as I did.
+Attached to the shop is a free exhibit on how mushrooms are actually grown, the substrate, the process, etc. It is, as far as I can tell, the only museum in the world dedicated entirely to mushrooms. I did not expect to spend as long in there as I did and Linda graciously guided me through her own family history.
 
 If you're ever near Kennett Square, it's worth the stop on its own, whether or not you buy anything. Their full shop of fresh mushrooms, dried, gourmet products, even mushroom coffee is at [The Woodlands at Phillips](https://www.thewoodlandsatphillips.com/curbside-online-shopping).
 
