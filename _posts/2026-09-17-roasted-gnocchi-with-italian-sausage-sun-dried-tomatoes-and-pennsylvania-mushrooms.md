@@ -6,6 +6,7 @@ description: Tonight I decided to pay a visit to one of my favorite stores -
 date: 2026-09-17T19:57:00.000-04:00
 tags:
   - farms
+  - recipes
 ---
 ![Pennsylvania Mushrooms compliment the Gnocchi perfectly ](/assets/images/uploads/img_3799.jpeg "Roasted Gnocchi with Italian Sausage, Sun Dried Tomatoes and Pennsylvania Mushrooms")
 
