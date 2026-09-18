@@ -13,8 +13,6 @@ Ever since the Kennett Mushroom Festival I have been on a kick. I can't get enou
 
 Let's just say that it turned out great! The family loved it and the cleanup is easy. Here is my recipe for: 
 
-
-
 ## Roasted Gnocchi with Italian Sausage, Sun Dried Tomatoes and Pennsylvania Mushrooms
 
 Ingredients: 
@@ -39,9 +37,7 @@ I garlic clove crushed
 
 1/2 sour cream
 
-
-
-Instructions: 
+## Instructions: 
 
 Preheat oven to 425 
 
