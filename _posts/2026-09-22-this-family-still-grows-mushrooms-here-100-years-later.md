@@ -28,9 +28,7 @@ There’s still art in this – there’s history and tradition– this can’t 
 
 And then there was the story about the loam, which I keep turning over.
 
-The family came from England, generations back, and settled in Chester County, and as Linda told it, part of why they stayed *here* —this particular stretch of Pennsylvania, and not somewhere else, came down to the soil. *Loam*. It's a word I knew existed before that conversation and had never once had a reason to use: a soil that's roughly balanced between sand, silt, and clay, holding enough moisture to be useful without turning to mud, loose enough to breathe. Farmers apparently talk about it the way sommeliers talk about terroir. It’s like it's not just dirt, but a kind of inheritance the land gives you if you're lucky enough to land on it.
-
-
+The family came from England, generations back, and settled in Chester County, and as Linda told it, part of why they stayed *here* —this particular stretch of Pennsylvania, and not somewhere else, came down to the soil...*Loam*. It's a word I knew existed before that conversation and had never once had a reason to use: a soil that's roughly balanced between sand, silt, and clay, holding enough moisture to be useful without turning to mud, loose enough to breathe. Farmers apparently talk about it the way sommeliers talk about terroir. It’s like it's not just dirt, but a kind of inheritance the land gives you if you're lucky enough to land on it.
 
 ## The Box That Changes Every Week
 
@@ -46,7 +44,7 @@ Linda knew each mushroom in the box and how to prepare each variety for taste, t
 
 Attached to the shop is a free exhibit on how mushrooms are actually grown — the substrate, the process, some genuinely strange facts I didn't know before walking in (growing a pound of mushrooms takes something like 1.8 gallons of water, versus over 1,600 gallons for a pound of beef, which is the kind of number that's stuck in my head since). It is, as far as I can tell, the only museum in the world dedicated entirely to mushrooms. I did not expect to spend as long in there as I did.
 
-If you're ever near Kennett Square, it's worth the stop on its own, whether or not you buy anything. Their full shop — fresh mushrooms, dried, gourmet products, even mushroom coffee — is at [The Woodlands at Phillips](https://www.thewoodlandsatphillips.com/curbside-online-shopping).
+If you're ever near Kennett Square, it's worth the stop on its own, whether or not you buy anything. Their full shop of fresh mushrooms, dried, gourmet products, even mushroom coffee is at [The Woodlands at Phillips](https://www.thewoodlandsatphillips.com/curbside-online-shopping).
 
 This is the part of Penn Mushrooms I like best so far, honestly. Not the part where I'm troubleshooting why a page won't load, but the part where I get to sit in a 200-year-old farmhouse and listen to someone talk about mushrooms with more knowledge in one conversation than I've accumulated in months of reading about them. If you know a farm I should visit next, [let me know](/#join).
 
