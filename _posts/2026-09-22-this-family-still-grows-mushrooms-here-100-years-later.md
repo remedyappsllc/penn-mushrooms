@@ -3,7 +3,7 @@ title: This Family Still Grows Mushrooms Here 100 Years Later
 description: A visit to The Woodlands at Phillips, run by the descendants of the
   man who invented year-round mushroom farming in 1927, and my first real
   interview for this whole project.
-date: 2026-09-22T14:59:00.000-04:00
+date: 2026-09-18T15:53:00.000-04:00
 tags:
   - farms
   - kennett-square
