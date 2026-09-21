@@ -33,7 +33,7 @@ For this recipe I used the additional mushrooms I had from my visit with T[he Wo
 
 This variety is something I haven't worked with before. These were Pioppino Mushrooms 
 
-## Pioppino Mushrooms 
+## Pioppino Mushrooms
 
 ![Pioppino mushrooms are a unique fungi increasing in popularity here in Pennsylvania](/assets/images/uploads/pexels-laker-6157039.jpg "Pioppinos")
 
@@ -113,7 +113,7 @@ Yes! We are getting close - stand there with pride knowing you're about to cross
 
 You will need 2-3 more ladle rounds (add water to the chicken stock if you are getting low). 
 
-Add the peas and mushrooms (I know it's late in the race but you don't want mush peas and smiley mushrooms). 
+Add the peas and mushrooms (I know it's late in the race but you don't want mushy peas and slimy mushrooms). 
 
 Keep stirring...slower this time. 
 
