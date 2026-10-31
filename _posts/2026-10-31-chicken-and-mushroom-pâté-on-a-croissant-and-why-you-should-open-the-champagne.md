@@ -15,6 +15,8 @@ I'm going to be honest: I used to think pâté was something you ordered to seem
 
 Bro, you can do it! 
 
+I took this to a dinner party and several folks that hate pâté loved it. The mushrooms tame the liver taste that some people don't like. 
+
 The mushrooms matter most. They add the earthy, savory depth that keeps this from tasting like a plain liver spread, and they're the reason it belongs on this site. I used the left over mushrooms from my visit to [The Woodlands at Phillips Farm. ](https://pennmushrooms.com/blog/2026/09/18/this-family-still-grows-mushrooms-here-100-years-later/)
 
 Serve it on a warm croissant with a pile of pink onions. Open a bottle of champagne while you're at it.
